@@ -1,2 +1,2 @@
-# node
-node sever course work
+# Node.js
+Node.js server course work
